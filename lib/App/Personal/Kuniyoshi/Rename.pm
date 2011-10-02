@@ -8,25 +8,23 @@ __END__
 
 =head1 NAME
 
-App::Personal::Kuniyoshi::Rename -
+App::Personal::Kuniyoshi::Rename - rename script of Larry Wall
 
 =head1 SYNOPSIS
 
-  use App::Personal::Kuniyoshi::Rename;
+  Blah blah blah.
 
 =head1 DESCRIPTION
 
-App::Personal::Kuniyoshi::Rename is
+App::Personal::Kuniyoshi::Rename is a alias to rename script that was wrote Larry Wall,
+and added a bit change.
 
 =head1 AUTHOR
 
-kuniyoshi E<lt>kuniyoshi@cpan.orgE<gt>
-
-=head1 SEE ALSO
+See a script.
 
 =head1 LICENSE
 
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+See a script.
 
 =cut
